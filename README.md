@@ -1,8 +1,38 @@
 ### Hi there 👋
 
+```typescript
+export class LoMásChimba{
+
+  const HeIsJuanDa{
+    name: "Juan David",
+    lastName: "Moreno Alfonso",
+    age: 19,
+    isWorking: false,
+    isStudying: true,
+    company: null,
+    university: "Universidad Del Valle",
+    languages: ["Java","JavaScript","Python","Python","Css","HTML","Scheme"],
+    tools: ["Angular"],
+  }
+    
+  howToReachMe = () =>{
+    let Instagram:string = "@heisjuanda";
+    let LinkedIn:string = "Juan David Moreno";
+    let Email:string = "jdma253@gmail.com";
+  }
+  
+  learning = () => {
+    for(let i = 0; i <= ∞ ; i++){
+      console.log("Learning new Things");
+    }
+  }
+
+}
+
+```
+
 <!--
 **jdma253/jdma253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

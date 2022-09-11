@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I´m JuanDa😄
 
 ```typescript
-export class LoMásChimba{
+export class LoMásChimba⚡{
 
   const HeIsJuanDa{
     name: "Juan David",
@@ -15,14 +15,14 @@ export class LoMásChimba{
     tools: ["Angular","OfficeSuit","AdoblePhotoshop","AdobeIlustrator","AdobePremiere"],
   }
     
-  howToReachMe = () => {
+  howToReachMe 📫 = () => {
     let Instagram:string = "@heisjuanda";
     let LinkedIn:string = "Juan David Moreno";
     let Email:string = "jdma253@gmail.com";
-    return "Tulua,Valle del Cauca,Colombia"
+    return "Tulua, Valle del Cauca, Colombia";
   }
   
-  learning = () => {
+  learning🌱 = () => {
     for(let i = 0; i <= ∞ ; i++){
       console.log("Learning new Things");
     }

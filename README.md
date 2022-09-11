@@ -12,10 +12,10 @@ export class LoMásChimba{
     company: null,
     university: "Universidad Del Valle",
     languages: ["Java","JavaScript","Python","Python","Css","HTML","Scheme"],
-    tools: ["Angular"],
+    tools: ["Angular","OfficeSuit","AdoblePhotoshop","AdobeIlustrator","AdobePremiere"],
   }
     
-  howToReachMe = () =>{
+  howToReachMe () {
     let Instagram:string = "@heisjuanda";
     let LinkedIn:string = "Juan David Moreno";
     let Email:string = "jdma253@gmail.com";

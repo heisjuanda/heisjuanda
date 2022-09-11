@@ -1,4 +1,4 @@
-### Hi there 👋, I´m JuanDa😄
+### Hi there <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I´m JuanDa<img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="30px">
 
 ```typescript
 export class LoMásChimba⚡{

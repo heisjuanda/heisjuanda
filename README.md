@@ -15,10 +15,11 @@ export class LoMásChimba{
     tools: ["Angular","OfficeSuit","AdoblePhotoshop","AdobeIlustrator","AdobePremiere"],
   }
     
-  howToReachMe () {
+  howToReachMe = () => {
     let Instagram:string = "@heisjuanda";
     let LinkedIn:string = "Juan David Moreno";
     let Email:string = "jdma253@gmail.com";
+    return "Tulua,Valle del Cauca,Colombia"
   }
   
   learning = () => {

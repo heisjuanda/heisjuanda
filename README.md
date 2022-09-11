@@ -34,6 +34,8 @@ export class LoMásChimba⚡{
 <a href="https://www.linkedin.com/in/juan-david-moreno-883a46233/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/heisjuanda/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/jdma253/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.facebook.com/jdma253/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="mailto:jdma253@gmail.com?subject=Hi&body=How are you doing" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com" alt="Facebook"></a>
 
 [![JuanDa's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdma253)](https://github.com/anuraghazra/github-readme-stats)
 

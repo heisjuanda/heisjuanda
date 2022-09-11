@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, Woow You look awesome!! <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="30px"> ǝɯ ǝʞıl
+### Hi there <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, Woow You look Stunning!! <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="30px"> ǝɯ ǝʞıl
 
 ***I´m a 19 year old university software engineering student, who wants to make the world better. 
 I like to do everything and try new things. All my spare time is dedicated to programming and learning new things about everything.***

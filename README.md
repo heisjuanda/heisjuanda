@@ -14,7 +14,7 @@ export class LoMásChimba⚡{
     isStudying: true,
     company: null,
     university: "Universidad Del Valle",
-    languages: ["Java","JavaScript","Python","Python","Css","HTML","Scheme"],
+    languages: ["Java","JavaScript","Ruby","Python","Css","HTML","Scheme"],
     tools: ["Angular","OfficeSuit","AdoblePhotoshop","AdobeIlustrator","AdobePremiere"],
   }
   

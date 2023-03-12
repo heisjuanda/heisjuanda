@@ -2,7 +2,6 @@
 
 ***
 I'm Juan David, a software developer student who is passionate about design and developing cutting-edge products.
-I work hard every day to push the limits of what is conceivable in the tech sector and to offer new perspectives.
 I take pride in my work and constantly aim for perfection, whether I'm developing a brand-new project from start or improving an already-existing program.
 ***
 

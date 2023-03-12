@@ -1,7 +1,10 @@
 ### Hi there <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, Woow You look Stunning!! <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="30px"> ǝɯ ǝʞıl
 
-***I´m a 19 year old university software engineering student, who wants to make the world better. 
-I like to do everything and try new things. All my spare time is dedicated to programming and learning new things about everything.***
+***
+I'm Juan David, a software developer student who is passionate about design and developing cutting-edge products.
+I work hard every day to push the limits of what is conceivable in the tech sector and to offer new perspectives.
+I take pride in my work and constantly aim for perfection, whether I'm developing a brand-new project from start or improving an already-existing program.
+***
 
 ```typescript
 export class LoMásChimba⚡{

@@ -6,7 +6,8 @@ I'm Juan David, a software developer student who is passionate about design and 
 
 <table>
 <tbody>
- <tr>
+ 
+<tr>
 <td align="center" width="20%">
 <span><b><center>JavaScript</center></b></span> 
 <img height=60px src="https://user-images.githubusercontent.com/63882053/226981177-e522313d-50c1-4667-b0d6-94e521bec367.png"> 
@@ -19,6 +20,7 @@ I'm Juan David, a software developer student who is passionate about design and 
 <span><b><center>Css</center></b></span> 
 <img height=60px src="https://user-images.githubusercontent.com/63882053/226981390-2325d364-88b7-486f-b5b3-3690e1ad7b9a.png"> 
 </tr>
+
 <tr>
 </td>
 <td align="center" width="20%">
@@ -34,6 +36,7 @@ I'm Juan David, a software developer student who is passionate about design and 
 <img height=60px src="https://user-images.githubusercontent.com/63882053/226983746-2971c55b-b93f-4719-8aa1-151c298e5933.png"> 
 </td>
 </tr>
+
 <tr>
 <td align="center" width="20%">
 <span><b><center>Java</center></b></span> 
@@ -48,6 +51,22 @@ I'm Juan David, a software developer student who is passionate about design and 
 <img height=60px src="https://user-images.githubusercontent.com/63882053/226984995-d66cd7aa-2dbf-4e15-83ae-d8aba9b419b0.png"> 
 </td>
 </tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>Webpack</center></b></span> 
+<img height=60px src="https://user-images.githubusercontent.com/63882053/228912875-eef675ce-9868-4f76-bb80-a3ed1662a011.png">
+</td>
+<td align="center" width="20%">
+<span><b><center>Netlify</center></b></span> 
+<img height=60px src="https://user-images.githubusercontent.com/63882053/228914507-8d19eb19-40aa-42dc-8568-d5ce92d3ac55.png"> 
+</td>
+<td align="center" width="20%">
+<span><b><center>React</center></b></span> 
+<img height=60px src="https://user-images.githubusercontent.com/63882053/238164013-99cfbb4d-1160-4876-9a89-ad504f0ed389.png"> 
+</td>
+</tr>
+
 </tbody>
 </table>
 

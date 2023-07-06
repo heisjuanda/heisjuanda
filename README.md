@@ -71,3 +71,7 @@ I'm Juan David, a software developer student who is passionate about design and 
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=heisjuanda&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
 </p> 
+
+<p align=center>
+  <img src="https://profile-counter.glitch.me/heisjuanda/count.svg" alt="new visitors" >
+</p>

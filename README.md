@@ -33,15 +33,11 @@ I'm Juan David, a software developer student who is passionate about design and 
   </article>
 
   <article style="display:flex; flex-direction:column;"> 
-    <img height=60px src="https://user-images.githubusercontent.com/63882053/226981902-65baf892-fbe1-41c2-a9cc-abdba5c2fe82.png"> 
-  </article>
-
-  <article style="display:flex; flex-direction:column;"> 
    <img height=60px src="https://user-images.githubusercontent.com/63882053/226983746-2971c55b-b93f-4719-8aa1-151c298e5933.png">
   </article>
 
   <article style="display:flex; flex-direction:column;"> 
-   <img height=60px src="https://user-images.githubusercontent.com/63882053/226985245-27899061-1e24-4183-afc8-0047c341030b.png">>
+   <img height=60px src="https://user-images.githubusercontent.com/63882053/226985245-27899061-1e24-4183-afc8-0047c341030b.png">
   </article>
 
   <article style="display:flex; flex-direction:column;"> 

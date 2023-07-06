@@ -8,13 +8,7 @@
 
 I'm Juan David, a software developer student who is passionate about design and developing cutting-edge products. I take pride in my work and constantly aim for perfection, whether I'm developing a brand-new project from start or improving an already-existing program.
 
-<h2 align="center" >Tech Stack</h2>
-
- JavaScript
-  ![JavaScript](https://user-images.githubusercontent.com/63882053/226981177-e522313d-50c1-4667-b0d6-94e521bec367.png)
-
-- TypeScript
-  ![TypeScript](https://user-images.githubusercontent.com/63882053/226982992-3fa3708f-b90f-44f1-b719-ec8e9ef6903e.png)
+<h2 align="center" font-size="30px">Tech Stack</h2>
 
 <section display="flex" flex-direction="row" flex-wrap="wrap">
   

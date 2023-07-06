@@ -74,7 +74,6 @@ I'm Juan David, a software developer student who is passionate about design and 
 </p> 
 
 <p align=center>
-  ![Snake animation](https://github.com/heisjuanda/heisjuanda/blob/output/github-contribution-grid-snake.svg)
   <img src="https://github.com/heisjuanda/heisjuanda/blob/output/github-contribution-grid-snake.svg" alt="my stats">
 </p>
 

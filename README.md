@@ -4,7 +4,10 @@
   </p>
 </a>
 
-# Who's Juanda?
+# Who's Juanda? 
+<p align="center">
+  <img src="https://github.com/heisjuanda/heisjuanda/blob/main/90616-questions.gif" alt="Question file">
+</p>
 
 I'm Juan David, a software developer student who is passionate about design and developing cutting-edge products. I take pride in my work and constantly aim for perfection, whether I'm developing a brand-new project from start or improving an already-existing program.
 

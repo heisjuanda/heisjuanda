@@ -11,10 +11,10 @@ I'm Juan David, a software developer student who is passionate about design and 
 ## Tech Stack
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=heisjuanda&show_icons=true&theme=radical&line_height=27">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=heisjuanda&show_icons=true&theme=dark&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=heisjuanda&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=heisjuanda&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=heisjuanda&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
 </p> 

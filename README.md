@@ -8,21 +8,11 @@
 
 I'm Juan David, a software developer student who is passionate about design and developing cutting-edge products. I take pride in my work and constantly aim for perfection, whether I'm developing a brand-new project from start or improving an already-existing program.
 
-<h2 align="center" font-size="30px">Tech Stack</h2>
+## Tech Stack
 
-<section display="flex" flex-direction="row" flex-wrap="wrap">
-  
-  <article width="20%" display="flex" flex-direction="column">
-    <span><b><center>JavaScript</center></b></span> 
-    <img height=60px src="https://user-images.githubusercontent.com/63882053/226981177-e522313d-50c1-4667-b0d6-94e521bec367.png">
-  </article>
-  
-  <article width="20%" display="flex">
-   <span><b><center>TypeScript</center></b></span> 
-    <img height=60px src="https://user-images.githubusercontent.com/63882053/226982992-3fa3708f-b90f-44f1-b719-ec8e9ef6903e.png"> 
-  </article>
-  
-</section>
+| JavaScript |
+|------------|
+|<img height=60px src="https://user-images.githubusercontent.com/63882053/226981177-e522313d-50c1-4667-b0d6-94e521bec367.png"> |
 
 <table>
  <tbody>

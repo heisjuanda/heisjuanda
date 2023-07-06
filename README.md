@@ -8,7 +8,7 @@
 
 I'm Juan David, a software developer student who is passionate about design and developing cutting-edge products. I take pride in my work and constantly aim for perfection, whether I'm developing a brand-new project from start or improving an already-existing program.
 
-## Tech Stack
+# Tech Stack
 
 <section align=center style="display:flex; flex-direction:row; flex-wrap:wrap;">
   
@@ -17,7 +17,8 @@ I'm Juan David, a software developer student who is passionate about design and 
   </article>
     
   <article style="display:flex; flex-direction:column;"> 
-    <img height=60px src="https://user-images.githubusercontent.com/63882053/226982992-3fa3708f-b90f-44f1-b719-ec8e9ef6903e.png"> 
+    <img height=60px src
+="https://user-images.githubusercontent.com/63882053/226982992-3fa3708f-b90f-44f1-b719-ec8e9ef6903e.png"> 
   </article>
     
   <article style="display:flex; flex-direction:column;"> 
@@ -61,7 +62,7 @@ I'm Juan David, a software developer student who is passionate about design and 
   </article>
 </section>
 
-## My Stats
+# My Stats
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=heisjuanda&show_icons=true&theme=dark&line_height=27">
@@ -71,6 +72,10 @@ I'm Juan David, a software developer student who is passionate about design and 
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=heisjuanda&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
 </p> 
+
+<p align=center>
+  ![Snake animation](https://github.com/heisjuanda/heisjuanda/blob/output/github-contribution-grid-snake.svg)
+</p>
 
 <p align=center>
   <img src="https://profile-counter.glitch.me/heisjuanda/count.svg" alt="new visitors" >

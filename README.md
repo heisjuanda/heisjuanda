@@ -4,6 +4,10 @@
   </p>
 </a>
 
+````HTML
+<div style="border:1px solid red">Hola</div>
+````
+
 # Who's Juanda?
 
 I'm Juan David, a software developer student who is passionate about design and developing cutting-edge products. I take pride in my work and constantly aim for perfection, whether I'm developing a brand-new project from start or improving an already-existing program.
@@ -11,57 +15,40 @@ I'm Juan David, a software developer student who is passionate about design and 
 ## Tech Stack
 
 <section style="display:flex; flex-direction:row; flex-wrap:wrap;">
+  
   <article style="display:flex; flex-direction:column;">
-    <span><b><center>JavaScript</center></b></span>
     <img height=60px src="https://user-images.githubusercontent.com/63882053/226981177-e522313d-50c1-4667-b0d6-94e521bec367.png"> 
   </article>
-    <article style="display:flex; flex-direction:column;"> 
+    
+  <article style="display:flex; flex-direction:column;"> 
     <img height=60px src="https://user-images.githubusercontent.com/63882053/226982992-3fa3708f-b90f-44f1-b719-ec8e9ef6903e.png"> 
   </article>
-    <article style="display:flex; flex-direction:column;"> 
+    
+  <article style="display:flex; flex-direction:column;"> 
     <img height=60px src="https://user-images.githubusercontent.com/63882053/226981390-2325d364-88b7-486f-b5b3-3690e1ad7b9a.png"> 
+  </article>
+  
+  <article style="display:flex; flex-direction:column;"> 
+    <img height=60px src="https://user-images.githubusercontent.com/63882053/226982516-ce8cb328-729b-4b15-85be-f473fd8c5d96.png"> 
+  </article>
+    
+  <article style="display:flex; flex-direction:column;"> 
+    <img height=60px src="https://user-images.githubusercontent.com/63882053/226981902-65baf892-fbe1-41c2-a9cc-abdba5c2fe82.png">
+  </article>
+
+  <article style="display:flex; flex-direction:column;"> 
+    <img height=60px src="https://user-images.githubusercontent.com/63882053/226981902-65baf892-fbe1-41c2-a9cc-abdba5c2fe82.png">
+  </article>
+
+  <article style="display:flex; flex-direction:column;"> 
+    <img height=60px src="https://user-images.githubusercontent.com/63882053/226981902-65baf892-fbe1-41c2-a9cc-abdba5c2fe82.png">
   </article>
 </section>
 
-<div style="overflow-x: auto;">
-  
-| Icon | Description |
-|------|-------------|
-| <img height=60px src="https://user-images.githubusercontent.com/63882053/226981177-e522313d-50c1-4667-b0d6-94e521bec367.png">  | Icon 1 Description |
-| <img height=60px src="https://user-images.githubusercontent.com/63882053/226982992-3fa3708f-b90f-44f1-b719-ec8e9ef6903e.png"> | Icon 2 Description |
-| <img height=60px src="https://user-images.githubusercontent.com/63882053/226981390-2325d364-88b7-486f-b5b3-3690e1ad7b9a.png">  | Icon 3 Description |
-
-</div>
-
 <table>
  <tbody>
-
   <tr>
    
-   <td align=center width=20%>
-    <span><b><center>JavaScript</center></b></span> 
-    <img height=60px src="https://user-images.githubusercontent.com/63882053/226981177-e522313d-50c1-4667-b0d6-94e521bec367.png"> 
-   </td>
-   
-   <td align="center" width="20%">
-   <span><b><center>TypeScript</center></b></span> 
-     <img height=60px src="https://user-images.githubusercontent.com/63882053/226982992-3fa3708f-b90f-44f1-b719-ec8e9ef6903e.png"> 
-   </td>
-   
-   <td align="center" width="20%">
-   <span><b><center>Css</center></b></span>
-     <img height=60px src="https://user-images.githubusercontent.com/63882053/226981390-2325d364-88b7-486f-b5b3-3690e1ad7b9a.png">
-   </td>
-   
-  </tr>
-
-  <tr>
-   
-   </td>
-   <td align="center" width="20%">
-    <span><b><center>Sass</center></b></span> 
-    <img height=60px src="https://user-images.githubusercontent.com/63882053/226982516-ce8cb328-729b-4b15-85be-f473fd8c5d96.png"> 
-   </td>
  
    <td align="center" width="20%">
     <span><b><center>HTML</center></b></span> 

@@ -12,7 +12,7 @@ I'm Juan David, a software developer student who is passionate about design and 
 
 <section display="flex" flex-direction="row" flex-wrap="wrap">
   
-  <article width="20%" display="flex">
+  <article width="20%" display="flex" flex-direction="column">
     <span><b><center>JavaScript</center></b></span> 
     <img height=60px src="https://user-images.githubusercontent.com/63882053/226981177-e522313d-50c1-4667-b0d6-94e521bec367.png">
   </article>

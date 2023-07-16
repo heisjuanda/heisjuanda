@@ -78,5 +78,5 @@ I'm Juan David, a software developer student who is passionate about design and 
 </p> 
 
 <p align=center>
-  <img src="https://profile-counter.glitch.me/heisjuanda/count.svg" alt="new visitors" >
+  <img src="https://profile-counter.glitch.me/heisjuanda/count.svg" alt="new visitors">
 </p>

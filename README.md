@@ -1,6 +1,6 @@
 <a target="_blank" href="https://heisjuanda.netlify.app/">
   <p align="left"> 
-    <img src="https://github.com/heisjuanda/heisjuanda/blob/main/Front-end.png" alt="HeIsJuanDa Banner" /> 
+    <img src="https://user-images.githubusercontent.com/63882053/275669063-87a3b7b2-1ba3-4391-ad6e-99279e0e3476.png" alt="HeIsJuanDa Banner" /> 
   </p>
 </a>
 

@@ -28,6 +28,16 @@ I'm Juan David, a software developer student who is passionate about design and 
    <img height=60px src="https://user-images.githubusercontent.com/63882053/238164013-99cfbb4d-1160-4876-9a89-ad504f0ed389.png">  
   </article>
 
+  <!--Redux-->
+  <article style="display:flex; flex-direction:column;"> 
+   <img height=60px src="https://private-user-images.githubusercontent.com/63882053/292779397-357d18bd-7bae-4968-932c-3d66778b6dac.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM1MzkxNjIsIm5iZiI6MTcwMzUzODg2MiwicGF0aCI6Ii82Mzg4MjA1My8yOTI3NzkzOTctMzU3ZDE4YmQtN2JhZS00OTY4LTkzMmMtM2Q2Njc3OGI2ZGFjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjI1VDIxMTQyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ1NTJkZmU2ZTc4YmQ0OTVjNzdjOWNmYWJlZTI1MjRlYzdhZDQxNjkzY2RmMTcyMDQwNTA4MzU2NjRlMDY5OTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.D5l92hElPoRw5mqgiaNPj_OmxKjwOG6yGYs8bQO7faY">  
+  </article>
+
+  <!--Zustand-->
+  <article style="display:flex; flex-direction:column;"> 
+   <img height=60px src="https://private-user-images.githubusercontent.com/63882053/292779437-4c2937e4-a928-4f66-b2ee-bc7001bc37f2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM1MzkyNTMsIm5iZiI6MTcwMzUzODk1MywicGF0aCI6Ii82Mzg4MjA1My8yOTI3Nzk0MzctNGMyOTM3ZTQtYTkyOC00ZjY2LWIyZWUtYmM3MDAxYmMzN2YyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjI1VDIxMTU1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE2YTFmOTFiMmIzM2Q1ODNjNDRkMWQyNGZjN2U5Y2E5YjJiZjk1MTI1NDk3ZTRhYjUzMzhlNThlNWY2ZDVmOTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.aSxhQkNO7ouW-Z6Vw0U4nwcsL90FkfK4HZ1shL9MWLU">  
+  </article>
+
 <!--Angular-->
   <article style="display:flex; flex-direction:column;"> 
    <img height=60px src="https://user-images.githubusercontent.com/63882053/226983746-2971c55b-b93f-4719-8aa1-151c298e5933.png">
@@ -76,6 +86,16 @@ I'm Juan David, a software developer student who is passionate about design and 
 <!--Webpack-->
   <article style="display:flex; flex-direction:column;"> 
    <img height=60px src="https://user-images.githubusercontent.com/63882053/228912875-eef675ce-9868-4f76-bb80-a3ed1662a011.png">
+  </article>
+
+<!--Eslint-->
+  <article style="display:flex; flex-direction:column;"> 
+   <img height=60px src="https://private-user-images.githubusercontent.com/63882053/292779492-9f801c9a-f88e-4d08-88f5-feca4a5acadf.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM1MzkzNjgsIm5iZiI6MTcwMzUzOTA2OCwicGF0aCI6Ii82Mzg4MjA1My8yOTI3Nzk0OTItOWY4MDFjOWEtZjg4ZS00ZDA4LTg4ZjUtZmVjYTRhNWFjYWRmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjI1VDIxMTc0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdjMTM2YjRjYTllNDUyZGY0Nzc0MjljMDBmNjZkN2ZmY2UzZjg1YzdmMGU1ZjZkN2IwZWUwMGE3ZmU0Y2FmY2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.AMMsT7Hk4l_h_1JTWDuK0o06FKwxllNnXfbdab97Cnw">
+  </article>
+
+<!--Axios-->
+  <article style="display:flex; flex-direction:column;"> 
+   <img height=60px src="https://private-user-images.githubusercontent.com/63882053/292779522-486a707b-75f6-4b7d-93d3-6b8b6017bcdc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM1Mzk0NjksIm5iZiI6MTcwMzUzOTE2OSwicGF0aCI6Ii82Mzg4MjA1My8yOTI3Nzk1MjItNDg2YTcwN2ItNzVmNi00YjdkLTkzZDMtNmI4YjYwMTdiY2RjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjI1VDIxMTkyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3OWQzZjgyNzdkM2MwMGU2ODQ2YzAxZTc4NDIyMzNiMWEzNzYzZTUwODcwNWM0ZGNmNDU1ZjdlOTBlZGQ2MDgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.W7Ds-mtm9W2waN3471UyVqXKyoROj_w0N9vt0QV7wLc">
   </article>
 
 <!--Vite-->

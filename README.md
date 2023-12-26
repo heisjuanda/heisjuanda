@@ -110,7 +110,7 @@ I'm Juan David, a software developer student who is passionate about design and 
 
 <!--Vite-->
   <article style="display:flex; flex-direction:column;"> 
-   <img height=60px src="https://private-user-images.githubusercontent.com/63882053/292778793-df7908d8-ea3b-4497-ad71-51f95129e1cc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM1Mzc4MjMsIm5iZiI6MTcwMzUzNzUyMywicGF0aCI6Ii82Mzg4MjA1My8yOTI3Nzg3OTMtZGY3OTA4ZDgtZWEzYi00NDk3LWFkNzEtNTFmOTUxMjllMWNjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjI1VDIwNTIwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNhMjNjZmYwMjQwN2UzYTAzMTMzOTFjMWRhNDI3NzM3NWU3MjZkOWJkMWY0NjI1ODAxZGRjZmIwOWZiODMwN2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.BxDvrpXpJ1462zEw7aKNn3y3qQEzwPd6bNbRlfJQKFQ">  
+   <img height=60px src="https://github.com/heisjuanda/heisjuanda/assets/63882053/df7908d8-ea3b-4497-ad71-51f95129e1cc">  
   </article>
 
 <!--Netlify-->

@@ -1,156 +1,113 @@
 <a target="_blank" href="https://juandamoreno.dev/">
-  <p align="left"> 
+  <p align="left">
     <img width="1080" height="300" alt="banner" src="https://github.com/user-attachments/assets/273512ec-2170-4ab4-9870-3f31c05950f3" />
   </p>
-
 </a>
 
-# Who's Juanda? 
+<h1 align="left">Juan David Moreno Alfonso</h1>
+<h3 align="left">Software Engineer focused on frontend quality, cloud architecture, and performance.</h3>
 
-I'm Juan David, a software developer student who is passionate about design and developing cutting-edge products. I take pride in my work and constantly aim for perfection, whether I'm developing a brand-new project from start or improving an already-existing program.
-
-# Tech Stack
-
-<section align=center style="display:flex; flex-direction:row; flex-wrap:wrap;">
-
-  <!--JavaScript-->
-  <article style="display:flex; flex-direction:column;">
-    <img height=60px src="https://user-images.githubusercontent.com/63882053/226981177-e522313d-50c1-4667-b0d6-94e521bec367.png"> 
-  </article>
-
-<!--TypeScript-->
-  <article style="display:flex; flex-direction:column;"> 
-    <img height=60px src
-="https://user-images.githubusercontent.com/63882053/226982992-3fa3708f-b90f-44f1-b719-ec8e9ef6903e.png"> 
-  </article>
-
-<!--React-->
-  <article style="display:flex; flex-direction:column;"> 
-   <img height=60px src="https://user-images.githubusercontent.com/63882053/238164013-99cfbb4d-1160-4876-9a89-ad504f0ed389.png">  
-  </article>
-
-  <!--Redux-->
-  <article style="display:flex; flex-direction:column;"> 
-   <img height=60px src="https://github.com/heisjuanda/heisjuanda/assets/63882053/357d18bd-7bae-4968-932c-3d66778b6dac">  
-  </article>
-
-  <!--Zustand-->
-  <article style="display:flex; flex-direction:column;"> 
-   <img height=80px src="https://github.com/heisjuanda/heisjuanda/assets/63882053/4c2937e4-a928-4f66-b2ee-bc7001bc37f2">  
-  </article>
-
-<!--React Query-->
-  <article style="display:flex; flex-direction:column;"> 
-   <img height=60px src="https://github.com/heisjuanda/heisjuanda/assets/63882053/8ab898af-d38c-49f1-afdc-eedbe9bc62f5">  
-  </article>
-
-<!--Angular-->
-  <article style="display:flex; flex-direction:column;"> 
-   <img height=60px src="https://user-images.githubusercontent.com/63882053/226983746-2971c55b-b93f-4719-8aa1-151c298e5933.png">
-  </article>
-
-<!--HTML-->
-  <article style="display:flex; flex-direction:column;"> 
-    <img height=60px src="https://user-images.githubusercontent.com/63882053/226981902-65baf892-fbe1-41c2-a9cc-abdba5c2fe82.png">
-  </article>
-
-<!--Css-->
-  <article style="display:flex; flex-direction:column;"> 
-    <img height=60px src="https://user-images.githubusercontent.com/63882053/226981390-2325d364-88b7-486f-b5b3-3690e1ad7b9a.png"> 
-  </article>
-  
-<!--Sass-->
-  <article style="display:flex; flex-direction:column;"> 
-    <img height=60px src="https://user-images.githubusercontent.com/63882053/226982516-ce8cb328-729b-4b15-85be-f473fd8c5d96.png"> 
-  </article>
-
-<!--Tailwind-->
-  <article style="display:flex; flex-direction:column;"> 
-   <img height=60px src="https://github.com/heisjuanda/heisjuanda/assets/63882053/73093ca7-6c4b-4355-88bc-349ad3e111c2">  
-  </article>
-
-<!--GraphQL-->
-  <article style="display:flex; flex-direction:column;"> 
-   <img height=60px src="https://github.com/heisjuanda/heisjuanda/assets/63882053/3b93d0b1-3749-4a83-80e0-c5e145254c4b">  
-  </article>
-
-<!--Gatsby.js-->
-  <article style="display:flex; flex-direction:column;"> 
-   <img height=60px src="https://github.com/heisjuanda/heisjuanda/assets/63882053/80aa376d-3517-4531-a8cd-f0ed3cdb80c2">  
-  </article>
-
-<!--Nest.js-->
-  <article style="display:flex; flex-direction:column;"> 
-   <img height=60px src="https://github.com/heisjuanda/heisjuanda/assets/63882053/19ae8ed2-a4d4-4eee-81f3-4c18c7815fff">  
-  </article>
-
-<!--Jest-->
-  <article style="display:flex; flex-direction:column;"> 
-   <img height=60px src="https://github.com/heisjuanda/heisjuanda/assets/63882053/fbfd9ec4-4b72-4f9c-9ae0-73a65dadd1f3">  
-  </article>
-
-<!--Cypress-->
-  <article style="display:flex; flex-direction:column;"> 
-   <img height=60px src="https://github.com/heisjuanda/heisjuanda/assets/63882053/fc88171f-ee23-4ef7-b9b6-7a5390ee424e">  
-  </article>
-
-<!--Webpack-->
-  <article style="display:flex; flex-direction:column;"> 
-   <img height=60px src="https://user-images.githubusercontent.com/63882053/228912875-eef675ce-9868-4f76-bb80-a3ed1662a011.png">
-  </article>
-
-<!--Eslint-->
-  <article style="display:flex; flex-direction:column;"> 
-   <img height=60px src="https://github.com/heisjuanda/heisjuanda/assets/63882053/9f801c9a-f88e-4d08-88f5-feca4a5acadf">
-  </article>
-
-<!--Axios-->
-  <article style="display:flex; flex-direction:column;"> 
-   <img height=60px src="https://github.com/heisjuanda/heisjuanda/assets/63882053/486a707b-75f6-4b7d-93d3-6b8b6017bcdc">
-  </article>
-
-<!--Vite-->
-  <article style="display:flex; flex-direction:column;"> 
-   <img height=60px src="https://github.com/heisjuanda/heisjuanda/assets/63882053/df7908d8-ea3b-4497-ad71-51f95129e1cc">  
-  </article>
-
-<!--Netlify-->
-  <article style="display:flex; flex-direction:column;"> 
-    <img height=60px src="https://user-images.githubusercontent.com/63882053/228914507-8d19eb19-40aa-42dc-8568-d5ce92d3ac55.png"> 
-  </article>
-
-<!--Python-->
-  <article style="display:flex; flex-direction:column;"> 
-   <img height=60px src="https://user-images.githubusercontent.com/63882053/226984995-d66cd7aa-2dbf-4e15-83ae-d8aba9b419b0.png"> 
-  </article>
-
-<!--Java-->
-  <article style="display:flex; flex-direction:column;"> 
-   <img height=60px src="https://user-images.githubusercontent.com/63882053/226985245-27899061-1e24-4183-afc8-0047c341030b.png">
-  </article>
-
-<!--Racket-->
-  <article style="display:flex; flex-direction:column;"> 
-   <img height=60px src="https://user-images.githubusercontent.com/63882053/226984805-3d587c7d-1ab1-46bd-9d2c-4f90ad931519.png"> 
-  </article>
-
-</section>
-
-# My Stats
-
-<p align=center>
-  <img src="https://github.com/heisjuanda/heisjuanda/blob/output/github-contribution-grid-snake.svg" alt="my stats">
+<p align="left">
+  I build reliable systems and polished digital products with strong attention to architecture, UX, scalability, and execution.
 </p>
 
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=heisjuanda&show_icons=true&theme=dark&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=heisjuanda&hide=html,css,java,shaderlab,kotlin,hlsl&theme=dark">
+<p align="left">
+  <a href="https://komarev.com/ghpvc/?username=heisjuanda&color=b91c1c&style=for-the-badge" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=heisjuanda&color=b91c1c&style=for-the-badge" alt="Profile views" />
+  </a>
+  <a href="https://juandamoreno.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-b91c1c?style=for-the-badge" alt="Open to opportunities" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20Cloud-1f2937?style=for-the-badge" alt="Focus Frontend and Cloud" />
 </p>
 
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=heisjuanda&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
-</p> 
+---
 
-<p align=center>
-  <img src="https://profile-counter.glitch.me/heisjuanda/count.svg" alt="new visitors">
+## About Me
+
+I work across frontend, backend, infrastructure, and developer experience — turning complex problems into clean, scalable, and production-ready solutions.
+
+My engineering mindset is shaped by performance, system design, reliability, and the details that make products feel fast, clear, and intentional.
+
+---
+
+## What I Bring
+
+- Frontend engineering with strong attention to UX, polish, and product quality
+- Cloud architecture and deployment workflows with AWS, Cloudflare, Netlify, and Docker
+- Performance optimization, SEO, and technical improvements that create measurable product impact
+- Backend and automation work using Go, Python, JavaScript, and TypeScript
+- A practical engineering approach focused on shipping robust systems that scale well
+
+---
+
+## Core Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,netlify,github,go,js,ts,react,vue,python,androidstudio" alt="Core technologies" />
+</p>
+
+---
+
+## Engineering Focus
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Frontend-UX%20%26%20Polish-b91c1c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Performance-Speed-7f1d1d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%2B%20Edge-991b1b?style=for-the-badge" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SEO-Technical-450a0a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Architecture-Systems-1f2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DX-Developer%20Experience-374151?style=for-the-badge" />
+</p>
+
+---
+
+## Selected Strengths
+
+- Building polished frontend experiences that feel fast, stable, and refined
+- Designing infrastructure and technical foundations for reliable digital products
+- Improving performance bottlenecks and product flows with a quality-first mindset
+- Working comfortably across product, engineering, and execution details
+- Caring about the small things users may not notice immediately, but always feel
+
+---
+
+## Current Role
+
+<h3 align="left">
+  <img
+    src="https://github.com/user-attachments/assets/5539ceef-57d5-4f5b-a0a6-3bef47d0037f"
+    alt="Truora logo"
+    width="20"
+    height="20"
+    align="center"
+  />
+  Truora
+</h3>
+
+Building robust systems and high-quality technical solutions with a strong focus on reliability, scale, and product execution.
+
+---
+
+## Principles
+
+- Speed is part of the user experience
+- Clear systems lead to better products
+- Thoughtful details build trust
+- Quality is visible in both architecture and interface
+
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://juandamoreno.dev/" target="_blank"><strong>Visit Portfolio</strong></a>
+</p>
+
+<p align="left">
+  Open to engineering roles, collaborations, and meaningful technical opportunities.
 </p>

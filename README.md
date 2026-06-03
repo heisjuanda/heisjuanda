@@ -1,7 +1,8 @@
 <a target="_blank" href="https://heisjuanda.netlify.app/">
   <p align="left"> 
-    <img src="https://user-images.githubusercontent.com/63882053/275669063-87a3b7b2-1ba3-4391-ad6e-99279e0e3476.png" alt="HeIsJuanDa Banner" /> 
+    <img width="1080" height="300" alt="banner" src="https://github.com/user-attachments/assets/273512ec-2170-4ab4-9870-3f31c05950f3" />
   </p>
+
 </a>
 
 # Who's Juanda? 

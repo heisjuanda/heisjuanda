@@ -1,4 +1,4 @@
-<a target="_blank" href="https://heisjuanda.netlify.app/">
+<a target="_blank" href="https://juandamoreno.dev/">
   <p align="left"> 
     <img width="1080" height="300" alt="banner" src="https://github.com/user-attachments/assets/273512ec-2170-4ab4-9870-3f31c05950f3" />
   </p>

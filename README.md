@@ -16,7 +16,7 @@
     <img src="https://komarev.com/ghpvc/?username=heisjuanda&color=b91c1c&style=for-the-badge" alt="Profile views" />
   </a>
   <a href="https://juandamoreno.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio" />
   </a>
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-b91c1c?style=for-the-badge" alt="Open to opportunities" />
   <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20Cloud-1f2937?style=for-the-badge" alt="Focus Frontend and Cloud" />

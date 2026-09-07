@@ -1,6 +1,7 @@
 <a target="_blank" href="https://juandamoreno.dev/">
   <p align="left">
-    <img width="1080" height="300" alt="Juan David Moreno — Software Engineer portfolio banner" src="https://github.com/user-attachments/assets/273512ec-2170-4ab4-9870-3f31c05950f3" />
+    <img width="4072" height="1024" alt="juandacover" src="https://github.com/user-attachments/assets/e97eea7d-32a0-4fc3-9888-663b904c7842" />
+
   </p>
 </a>
 

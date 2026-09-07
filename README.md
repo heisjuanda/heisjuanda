@@ -1,82 +1,34 @@
 <a target="_blank" href="https://juandamoreno.dev/">
   <p align="left">
-    <img width="1080" height="300" alt="banner" src="https://github.com/user-attachments/assets/273512ec-2170-4ab4-9870-3f31c05950f3" />
+    <img width="1080" height="300" alt="Juan David Moreno — Software Engineer portfolio banner" src="https://github.com/user-attachments/assets/273512ec-2170-4ab4-9870-3f31c05950f3" />
   </p>
 </a>
 
 <h1 align="left">Juan David Moreno Alfonso</h1>
-<h3 align="left">Software Engineer focused on frontend quality, cloud architecture, and performance.</h3>
+<h3 align="left">Software Engineer at Truora · Cali, Colombia</h3>
 
 <p align="left">
-  I build reliable systems and polished digital products with strong attention to architecture, UX, scalability, and execution.
+  Full stack engineer, 4+ years. I work on serverless backends on AWS and on frontends
+  where performance is a feature. Code lives here — the case studies, with the reasoning
+  behind each decision, live on <a href="https://juandamoreno.dev/">juandamoreno.dev</a>.
 </p>
 
 <p align="left">
-  <a href="https://komarev.com/ghpvc/?username=heisjuanda&color=b91c1c&style=for-the-badge" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=heisjuanda&color=b91c1c&style=for-the-badge" alt="Profile views" />
-  </a>
   <a href="https://juandamoreno.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-juandamoreno.dev-111111?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://juandamoreno.dev/cv/cv.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/CV-PDF-1f2937?style=for-the-badge" alt="CV as PDF" />
+  </a>
+  <a href="https://www.linkedin.com/in/juandamoreno/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-b91c1c?style=for-the-badge" alt="Open to opportunities" />
-  <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20Cloud-1f2937?style=for-the-badge" alt="Focus Frontend and Cloud" />
 </p>
 
 ---
 
-## About Me
-
-I work across frontend, backend, infrastructure, and developer experience — turning complex problems into clean, scalable, and production-ready solutions.
-
-My engineering mindset is shaped by performance, system design, reliability, and the details that make products feel fast, clear, and intentional.
-
----
-
-## What I Bring
-
-- Frontend engineering with strong attention to UX, polish, and product quality
-- Cloud architecture and deployment workflows with AWS, Cloudflare, Netlify, and Docker
-- Performance optimization, SEO, and technical improvements that create measurable product impact
-- Backend and automation work using Go, Python, JavaScript, and TypeScript
-- A practical engineering approach focused on shipping robust systems that scale well
-
----
-
-## Core Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,netlify,github,go,js,ts,react,vue,python,androidstudio" alt="Core technologies" />
-</p>
-
----
-
-## Engineering Focus
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Frontend-UX%20%26%20Polish-b91c1c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Performance-Speed-7f1d1d?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%2B%20Edge-991b1b?style=for-the-badge" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/SEO-Technical-450a0a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Architecture-Systems-1f2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DX-Developer%20Experience-374151?style=for-the-badge" />
-</p>
-
----
-
-## Selected Strengths
-
-- Building polished frontend experiences that feel fast, stable, and refined
-- Designing infrastructure and technical foundations for reliable digital products
-- Improving performance bottlenecks and product flows with a quality-first mindset
-- Working comfortably across product, engineering, and execution details
-- Caring about the small things users may not notice immediately, but always feel
-
----
-
-## Current Role
+## Currently
 
 <h3 align="left">
   <img
@@ -86,28 +38,70 @@ My engineering mindset is shaped by performance, system design, reliability, and
     height="20"
     align="center"
   />
-  Truora
+  Software Engineer at <a href="https://www.truora.com/">Truora</a>
 </h3>
 
-Building robust systems and high-quality technical solutions with a strong focus on reliability, scale, and product execution.
+Truora checks identities and prevents fraud for companies across Latin America. I build the
+products that decide whether a person really is who they say they are: web features, REST
+APIs in Go, Android SDK components and serverless services on AWS.
+
+- Cut review time in half — from 60s to 30s per case — on the tool used to check validations
+  our models are unsure about, with the same quality of decisions.
+- Designed **Labeling Review**, which turns those same validations into training data for
+  Truora's internal AI models, reusing what we already had instead of building a new system.
+- Rebuilt how we read and validate Colombian driver's licenses, a key requirement for one of
+  Truora's largest clients.
+
+**Previously — Software Developer at [Cressco](https://www.cressco.dev/en/).** Agency work for
+client products: I led the frontend and the infrastructure around it — DNS, deployments and
+email delivery — for healthcare and e-commerce teams.
+
+- Added autosave to Reddocares' medical forms, so staff stopped losing long records when a tab
+  closed or the connection dropped.
+- Made `joshwoodcolour.com` load ~20% faster.
+- Fixed Josh Wood's email campaigns that were landing in spam, by cleaning up their sending
+  reputation and rewriting the messages.
 
 ---
 
-## Principles
+## Selected work
 
-- Speed is part of the user experience
-- Clear systems lead to better products
-- Thoughtful details build trust
-- Quality is visible in both architecture and interface
+Code here, the full write-up on the portfolio.
+
+| Project | What it is | Repo | Case study |
+| --- | --- | --- | --- |
+| **Juanda Bot** | RAG Telegram assistant — Ollama primary, n8n fallback to OpenAI/Groq | [Juan-Dabot](https://github.com/heisjuanda/Juan-Dabot) | [Read](https://juandamoreno.dev/projects/juandabot) |
+| **AI Speech Platform** | My thesis — FastAPI + React, speech analysis for oratory and debate | [trabajo-de-grado-2](https://github.com/heisjuanda/trabajo-de-grado-2) | [Read](https://juandamoreno.dev/projects/thesis) |
+| **Lambda Lang** | A functional language, parser, evaluator and visual REPL, from scratch in Dr Racket | [Program-language](https://github.com/heisjuanda/Program-language) | [Read](https://juandamoreno.dev/projects/lambda-lang) |
+| **Patitas a Casa** | Nonprofit pet adoption platform for shelters in Argentina | [Patitas-a-casa](https://github.com/adanj27/Patitas-a-casa) | [Read](https://juandamoreno.dev/projects/patitas-a-casa) |
+| **This portfolio** | React + GSAP on a Cloudflare Worker, with per-route metadata rendered at the edge | [personal-portfolio](https://github.com/heisjuanda/personal-portfolio) | [Read](https://juandamoreno.dev/projects/portfolio) |
+| **Josh Wood Colour** | Premium haircare e-commerce — React, Gatsby, Shopify | private | [Read](https://juandamoreno.dev/projects/josh-wood-colour) |
 
 ---
 
-## Connect
+## Stack
 
 <p align="left">
-  <a href="https://juandamoreno.dev/" target="_blank"><strong>Visit Portfolio</strong></a>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,python,kotlin,go,aws,terraform,cloudflare,postgres,docker,vue" alt="React, TypeScript, JavaScript, Python, Kotlin, Go, AWS, Terraform, Cloudflare, PostgreSQL, Docker, Vue" />
 </p>
 
-<p align="left">
-  Open to engineering roles, collaborations, and meaningful technical opportunities.
-</p>
+**Frontend** React · TypeScript · GSAP · Vite · Core Web Vitals
+**Backend** Go · Python · Kotlin · FastAPI · Node
+**Cloud** AWS (Lambda, DynamoDB, API Gateway, CloudFront) · Cloudflare Workers · Terraform
+**Data** PostgreSQL · DynamoDB · RAG pipelines
+
+---
+
+## Also
+
+- **Systems Engineering**, Universidad del Valle — 2020–2025
+- English and Spanish, both working languages
+- Remote-first, working with distributed teams from Cali
+
+---
+
+## Contact
+
+[juandamoreno.dev](https://juandamoreno.dev/) · [LinkedIn](https://www.linkedin.com/in/juandamoreno/) · [heisjuanda@gmail.com](mailto:heisjuanda@gmail.com) · [WhatsApp](https://wa.me/soyjuandamoreno)
+
+Open to engineering roles and collaborations.

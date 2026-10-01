@@ -6,7 +6,7 @@
 </a>
 
 <h1 align="left">Juan David Moreno Alfonso</h1>
-<h3 align="left">Software Engineer at Truora · Cali, Colombia</h3>
+<h3 align="left">Software Engineer · Cali, Colombia</h3>
 
 <p align="left">
   Full stack engineer, 4+ years. I work on serverless backends on AWS and on frontends
@@ -31,7 +31,7 @@
 
 ## Currently
 
-<h3 align="left">
+<!--<h3 align="left">
   <img
     src="https://github.com/user-attachments/assets/5539ceef-57d5-4f5b-a0a6-3bef47d0037f"
     alt="Truora logo"
@@ -40,9 +40,9 @@
     align="center"
   />
   Software Engineer at <a href="https://www.truora.com/">Truora</a>
-</h3>
+</h3>-->
 
-Truora checks identities and prevents fraud for companies across Latin America. I build the
+Worked at Truora, where do checks identities and prevents fraud for companies across Latin America. I build the
 products that decide whether a person really is who they say they are: web features, REST
 APIs in Go, Android SDK components and serverless services on AWS.
 

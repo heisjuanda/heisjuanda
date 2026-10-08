@@ -1,7 +1,6 @@
 <a target="_blank" href="https://juandamoreno.dev/">
   <p align="left">
-    <img width="4072" height="1024" alt="juandacover" src="https://github.com/user-attachments/assets/e97eea7d-32a0-4fc3-9888-663b904c7842" />
-
+    <img width="2560" height="640" alt="banner-github-2x" src="https://github.com/user-attachments/assets/2a323155-58f2-4a04-8d2f-0fbc5ea89f41" />
   </p>
 </a>
 

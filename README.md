@@ -1,6 +1,6 @@
 <a target="_blank" href="https://juandamoreno.dev/">
   <p align="left">
-    <img width="2560" height="640" alt="banner-github-2x" src="https://github.com/user-attachments/assets/2a323155-58f2-4a04-8d2f-0fbc5ea89f41" />
+    <img width="3168" height="792" alt="banner-linkedin-sans-2x" src="https://github.com/user-attachments/assets/1bcd6e03-2c1d-496d-889e-ecdcba3497d3" />
   </p>
 </a>
 
